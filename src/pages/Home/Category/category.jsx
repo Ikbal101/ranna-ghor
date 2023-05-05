@@ -1,11 +1,11 @@
 import React from 'react';
 
-const index = () => {
+const Category = () => {
     return (
         <div>
-            <h2>mxbfjv</h2>
+         <h2></h2>   
         </div>
     );
 };
 
-export default index;
+export default Category;
